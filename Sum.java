@@ -4,6 +4,6 @@ public class Sum{
         return x + y; 
     }
     public static void main(String[] args) {
-        System.out.println(sum(3,3));
+        System.out.println("Sum of two nums is " + sum(3,3));
     }
 }
